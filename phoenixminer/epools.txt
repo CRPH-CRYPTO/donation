@@ -1,0 +1,4 @@
+POOL: ethash.poolbinance.com:443, WAL: crphmyanmar, WORKER: crphmyanmar.rz1, PASS: 123, PROTO: 2, ALLPOOLS: 1
+POOL: ethash.poolbinance.com:1800, WAL: crphmyanmar, WORKER: crphmyanmar.rz1, PASS: 123, PROTO: 2, ALLPOOLS: 1
+POOL: ethash.poolbinance.com:25, WAL: crphmyanmar, WORKER: crphmyanmar.rz1, PASS: 123, PROTO: 2, ALLPOOLS: 1
+POOL: ethash.poolbinance.com:3333, WAL: crphmyanmar, WORKER: crphmyanmar.rz1, PASS: 123, PROTO: 2, ALLPOOLS: 1
