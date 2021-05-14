@@ -22,6 +22,17 @@ For Linux users -
 ./crph-start.zh
 ```
 
+# binance
+wallet = crphmyanmar
+worker = crphmyanmar
+password = 123
+
+# F2Pool configurations (LTC, BTC, XVG, XMR)
+worker = crphcrypto.001
+password = 123
+
+You can mine using below addresses 
+
 
 # Crpyto Addresses
 ### You can directly donate to these address or use as wallet address when mining
