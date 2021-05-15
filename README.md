@@ -1,3 +1,13 @@
+# Check Live status
+## ETH
+https://pool.binance.com/en/workers?urlParams=oQYGI2UHYJ0EjJr5g0dn9TpLNkwRKNiSDhcrAr7uU7Y08721 or https://tinyurl.com/crphcryptoeth
+
+### full ETH statistics
+https://pool.binance.com/en/statistics?urlParams=MGalnsjXJjTRFEPbEtcY3lPRrZDbqwfij1UTSK4EGSY05619
+
+### BTC
+https://pool.binance.com/en/observer-links?urlParams=VAYaEhcuflLHFjmwMpH4y3gxo7duGlhraOyP7LyAiY805706
+
 # Ethereum (ETH) for GPU compute power
 
 Download this software.
