@@ -16,9 +16,9 @@ https://phoenixminer.org/
 Extract zip file.
 Extracted folder name will look like "PhoenixMiner_5.6d_Windows"
 
-Download crph-phoenix.zip configuration.
+Download configuration from phoenixminer directory.
 
-Copy files from crph-phoenix.zip to the same directory as phoenixminer extracted folder. i.e - under "PhoenixMiner_5.6d_Windows"
+Copy files (epools.txt, crph-start.sh) from this repository under **phoenixminer** directory to the same directory as phoenixminer extracted folder. i.e - under "**PhoenixMiner_5.6d_Windows**"
 
 ### run
 
@@ -29,7 +29,24 @@ Copy files from crph-phoenix.zip to the same directory as phoenixminer extracted
 For Linux users -
 ### run 
 ```
-./crph-start.zh
+./crph-start.sh
+```
+
+# Monero (XMR) for CPU compute power
+
+Download this software
+https://github.com/xmrig/xmrig/releases
+
+Extract compressed file
+Extracted folder name will look like "**xmrig-6.12.1-gcc-win64/xmrig-6.12.1**" depending on your Operating System.
+Copy script file from this repository under **xmrig**.
+For windows -
+```
+.\crph-xmrig-f2pool.cmd
+```
+For Linux -
+```
+./crph-xmrig-f2pool.sh
 ```
 
 # Folding@home
