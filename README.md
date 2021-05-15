@@ -22,6 +22,15 @@ For Linux users -
 ./crph-start.zh
 ```
 
+# Folding@home
+Download client here for Windows, Mac and Linux
+https://foldingathome.org/#downloads
+
+
+username = DA8NRWWTcPzGuUYV3j8L4ZqiHVjZAqV45T
+team = 226715
+password is not required.
+
 # binance
 wallet = crphmyanmar
 worker = crphmyanmar
