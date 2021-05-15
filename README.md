@@ -1,12 +1,17 @@
 # Check Live status
-## ETH
-https://pool.binance.com/en/workers?urlParams=oQYGI2UHYJ0EjJr5g0dn9TpLNkwRKNiSDhcrAr7uU7Y08721 or https://tinyurl.com/crphcryptoeth
 
-### full ETH statistics
+### full ETH statistics - for GPU donator
 https://pool.binance.com/en/statistics?urlParams=MGalnsjXJjTRFEPbEtcY3lPRrZDbqwfij1UTSK4EGSY05619
 
 ### BTC
 https://pool.binance.com/en/observer-links?urlParams=VAYaEhcuflLHFjmwMpH4y3gxo7duGlhraOyP7LyAiY805706
+
+
+### Monero (XMR) - for CPU donator
+https://www.f2pool.com/xmr/8BRVZ1D4uynVtkVTsxzoxqWB35ZeuNGjP5LSbCkM5h63ixeCVSW8K8AbCaHSYZrDoVJnKGqVQLgYJ8MdryoPUphtKowVXe1
+
+### XVG (Verge-Blake2S) - for GPU donator
+https://www.f2pool.com/verge/DKB4Dvi84SfMRH3ztCHdQwEPbXZ8t3FUrb
 
 # Ethereum (ETH) for GPU compute power
 
@@ -64,7 +69,8 @@ worker = crphmyanmar
 password = 123
 
 # F2Pool configurations (LTC, BTC, XVG, XMR)
-worker = crphcrypto.001
+worker = crphcrypto.001 ### if you want your name to appear on live statistics pages, put your name instead of 001, but no more than 6 characters.
+
 password = 123
 
 You can mine using below addresses 
